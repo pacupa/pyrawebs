@@ -49,7 +49,7 @@ if __name__ == "__main__":
       print tweet
       try:
           api.update_status(status=cadena)
-          espera = randint(4,37)
+          espera = randint(30,300)
           time.sleep(espera)
           print 'espera: '+str(espera)+' segundos'
       except:
