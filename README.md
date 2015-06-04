@@ -4,3 +4,4 @@
 #### Usage
 
 `python pyrawebs.py tweets.txt diputados.txt`
+`python pyrawebs.py tweets.txt senadores.txt`
